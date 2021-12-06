@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959821541634",
+    "project_id": "wpp-estudos",
+    "storage_bucket": "wpp-estudos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959821541634:android:4b3cc1a3ddaa9b64c5921b",
+        "android_client_info": {
+          "package_name": "com.example.wpp_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959821541634-dun47qakdvhrett2vdge1ioitsp9ime9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsYwstFDRR4gaJ4DgmUt8OjoCc51nYBxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959821541634-dun47qakdvhrett2vdge1ioitsp9ime9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
